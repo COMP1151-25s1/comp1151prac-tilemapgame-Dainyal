@@ -1,0 +1,40 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "C:/Users/46985999/COMP1151/comp1151prac-tilemapgame-Dainyal/Tilesheet.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -31.27272727272728,
+                "y": -13.818181818181813
+            }
+        },
+        "C:/Users/46985999/COMP1151/comp1151prac-tilemapgame-Dainyal/Tilesheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/46985999/COMP1151/comp1151prac-tilemapgame-Dainyal/Assets/kenney_tiny-dungeon/Tilemap",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+    ],
+    "project": "gameTilemap.tiled-project",
+    "recentFiles": [
+        "C:/Users/46985999/COMP1151/comp1151prac-tilemapgame-Dainyal/Tilesheet.tsx",
+        "C:/Users/46985999/COMP1151/comp1151prac-tilemapgame-Dainyal/Tilesheet.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
