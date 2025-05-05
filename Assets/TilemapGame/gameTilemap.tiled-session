@@ -7,6 +7,14 @@
     "expandedProjectPaths": [
     ],
     "fileStates": {
+        "tilemap.tmx": {
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 67.5,
+                "y": -103.5
+            }
+        }
     },
     "last.imagePath": "C:/Users/46985999/COMP1151/comp1151prac-tilemapgame-Dainyal/Assets/kenney_tiny-dungeon/Tilemap",
     "map.fixedSize": false,
@@ -17,6 +25,7 @@
     ],
     "project": "gameTilemap.tiled-project",
     "recentFiles": [
+        "tilemap.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
